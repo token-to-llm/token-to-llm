@@ -18,16 +18,16 @@ token-to-llm/
 
 | 章 | 章名 | 代码 | 课件 |
 |---|---|---|---|
-| 1 | 大语言模型综述 | [`src/llm/`](src/llm/) | ppt/llm.pdf |
-| 2 | Transformer 模型 | [`src/transformer/`](src/transformer/) | ppt/transfomer.pdf |
+| 1 | 大语言模型综述 | [`src/llm/`](src/llm/) | [ppt/llm.pdf](ppt/llm.pdf) |
+| 2 | Transformer 模型 | [`src/transformer/`](src/transformer/) | [ppt/transfomer.pdf](ppt/transfomer.pdf) |
 | 3 | GPT | [`src/gpt/`](src/gpt/) |  [ppt/gpt.pdf](ppt/gpt.pdf) |
-| 4 | Llama | [`src/llama/`](src/llama/) | ppt/llama.pdf |
-| 5 | 有监督微调 | [`src/sft/`](src/sft/) | ppt/sft.pdf |
-| 6 | 提示词工程和 LLM 应用 | [`src/prompt/`](src/prompt/) | ppt/prompt.pdf |
-| 7 | 强化学习 | [`src/rl/`](src/rl/) | ppt/rl.pdf |
-| 8 | 基于强化学习的LLM训练 | [`src/rl-llm/`](src/rl-llm/) | ppt/rl-llm.pdf |
-| 9 | 大语言模型的训练 | [`src/training/`](src/training/) | ppt/training.pdf |
-| 10 | 高效大语言模型 | [`src/inference/`](src/inference/) | ppt/inference.pdf |
+| 4 | Llama | [`src/llama/`](src/llama/) | [ppt/llama.pdf](ppt/llama.pdf) |
+| 5 | 有监督微调 | [`src/sft/`](src/sft/) | [ppt/sft.pdf](ppt/sft.pdf) |
+| 6 | 提示词工程和 LLM 应用 | [`src/prompt/`](src/prompt/) | [ppt/prompt.pdf](ppt/prompt.pdf) |
+| 7 | 强化学习 | [`src/rl/`](src/rl/) | [ppt/rl.pdf](ppt/rl.pdf) |
+| 8 | 基于强化学习的LLM训练 | [`src/rl-llm/`](src/rl-llm/) | [ppt/rl-llm.pdf](ppt/rl-llm.pdf) |
+| 9 | 大语言模型的训练 | [`src/training/`](src/training/) | [ppt/training.pdf](ppt/training.pdf) |
+| 10 | 高效大语言模型 | [`src/inference/`](src/inference/) | [ppt/inference.pdf](ppt/inference.pdf) |
 
 
 ## 运行
