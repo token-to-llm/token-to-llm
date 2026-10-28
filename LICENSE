@@ -1,0 +1,50 @@
+版权所有 © 2026 邓杭、杨耀东
+
+《大语言模型：训练、精调与对齐》配套资源仓库
+清华大学出版社　ISBN 978-7-302-71036-3
+
+本仓库中的代码与教学课件（以下统称「本资源」）仅供**教学与学习**使用。
+在下列条件下，任何人可以免费使用、复制和分发本资源：
+
+1. 使用时保留本版权声明；
+2. 不得将本资源用于任何**商业用途**，包括但不限于将其整体或部分地
+   打包进付费课程、付费产品、商业培训或商业咨询交付物；
+3. 不得未经许可地再分发、改编后发布，或以本资源为基础制作衍生作品
+   对外提供。
+
+**未经著作权人书面许可，不得将本资源用于商业目的。**
+
+本资源按「现状」提供，不附带任何明示或默示的担保，包括但不限于对
+适销性、特定用途适用性和非侵权性的担保。因使用本资源所产生的任何
+后果，作者不承担责任。
+
+商业授权或其他许可事宜，请联系作者。
+
+---
+
+Copyright © 2026 Deng Hang, Yang Yaodong. All rights reserved.
+
+Companion resource repository for *Large Language Models: Training, Fine-tuning
+and Alignment* (Tsinghua University Press, ISBN 978-7-302-71036-3).
+
+The code and teaching slides in this repository (the "Resources") are provided
+for **teaching and learning purposes only**. You may use, copy and distribute
+the Resources free of charge under the following conditions:
+
+1. This copyright notice is retained;
+2. The Resources are **not used for any commercial purpose**, including but not
+   limited to inclusion in paid courses, paid products, commercial training or
+   commercial consulting deliverables;
+3. The Resources are not redistributed, published in modified form, or used to
+   create derivative works made available to others, without permission.
+
+**Commercial use of the Resources requires prior written permission from the
+copyright holder.**
+
+THE RESOURCES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT
+OF OR IN CONNECTION WITH THE RESOURCES OR THE USE OF THE RESOURCES.
+
+For commercial licensing or any other permission, please contact the authors.
