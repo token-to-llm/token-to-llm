@@ -14,21 +14,31 @@ token-to-llm/
 └── requirements.txt
 ```
 
-## 章节对照
+## 课时对照
 
-| 章 | 章名 | 代码 | 课件 |
-|---|---|---|---|
-| 1 | 大语言模型综述 | [`src/llm/`](src/llm/) | [ppt/llm.pdf](ppt/llm.pdf) |
-| 2 | Transformer 模型 | [`src/transformer/`](src/transformer/) | [ppt/transfomer.pdf](ppt/transfomer.pdf) |
-| 3 | GPT | [`src/gpt/`](src/gpt/) |  [ppt/gpt.pdf](ppt/gpt.pdf) |
-| 4 | Llama | [`src/llama/`](src/llama/) | [ppt/llama.pdf](ppt/llama.pdf) |
-| 5 | 有监督微调 | [`src/sft/`](src/sft/) | [ppt/sft.pdf](ppt/sft.pdf) |
-| 6 | 提示词工程和 LLM 应用 | [`src/prompt/`](src/prompt/) | [ppt/prompt.pdf](ppt/prompt.pdf) |
-| 7 | 强化学习 | [`src/rl/`](src/rl/) | [ppt/rl.pdf](ppt/rl.pdf) |
-| 8 | 基于强化学习的LLM训练 | [`src/rl-llm/`](src/rl-llm/) | [ppt/rl-llm.pdf](ppt/rl-llm.pdf) |
-| 9 | 大语言模型的训练 | [`src/training/`](src/training/) | [ppt/training.pdf](ppt/training.pdf) |
-| 10 | 高效大语言模型 | [`src/inference/`](src/inference/) | [ppt/inference.pdf](ppt/inference.pdf) |
+| 课时 | 章节 | 章节名 | 代码 | 文件名 |
+|---|---|---|---|---|
+| 1 | 1 | 大语言模型综述 | [`src/llm/`](src/llm/) | [./ppt_16/llm.pdf](./ppt_16/llm.pdf) |
+| 2 | 2 | Transformer 模型（上） | [`src/transformer/`](src/transformer/) | [./ppt_16/transformer_part_1.pdf](./ppt_16/transformer_part_1.pdf) |
+| 3 | 2 | Transformer 模型（下） | [`src/transformer/`](src/transformer/) | [./ppt_16/transformer_part_2.pdf](./ppt_16/transformer_part_2.pdf) |
+| 4 | 3 | GPT 模型 | [`src/gpt/`](src/gpt/) | [./ppt_16/gpt.pdf](./ppt_16/gpt.pdf) |
+| 5 | 4 | Llama 模型（上） | - | [./ppt_16/llama_part_1.pdf](./ppt_16/llama_part_1.pdf) |
+| 6 | 4 | Llama 模型（下） | [`src/llama/`](src/llama/) | [./ppt_16/llama_part_2.pdf](./ppt_16/llama_part_2.pdf) |
+| 7 | 5 | 有监督微调 | - | [./ppt_16/finetune.pdf](./ppt_16/finetune.pdf) |
+| 8 | 6 | 提示词工程和 LLM 应用 | - | [./ppt_16/prompt.pdf](./ppt_16/prompt.pdf) |
+| 9 | 7 | 强化学习（上） | [`src/rl/`](src/rl/) | [./ppt_16/rl_part_1.pdf](./ppt_16/rl_part_1.pdf) |
+| 10 | 7 | 强化学习（下） | [`src/rl/`](src/rl/) | [./ppt_16/rl_part_2.pdf](./ppt_16/rl_part_2.pdf) |
+| 11 | 8 | 基于强化学习的 LLM 训练（上） | [`src/rl-llm/`](src/rl-llm/) | [./ppt_16/rl-llm_part_1.pdf](./ppt_16/rl-llm_part_1.pdf) |
+| 12 | 8 | 基于强化学习的 LLM 训练（下） | [`src/rl-llm/`](src/rl-llm/) | [./ppt_16/rl-llm_part_2.pdf](./ppt_16/rl-llm_part_2.pdf) |
+| 13 | 9 | 大语言模型的训练（上） | - | [./ppt_16/training_part_1.pdf](./ppt_16/training_part_1.pdf) |
+| 14 | 9 | 大语言模型的训练（下） | - | [./ppt_16/training_part_2.pdf](./ppt_16/training_part_2.pdf) |
+| 15 | 10 | 高效大语言模型（上） | [`src/inference/`](src/inference/) | [./ppt_16/inference_part_1.pdf](./ppt_16/inference_part_1.pdf) |
+| 16 | 10 | 高效大语言模型（下） | [`src/inference/`](src/inference/) | [./ppt_16/inference_part_2.pdf](./ppt_16/inference_part_2.pdf) |
 
+章节共 10 章，拆分成 16 个课时周，满足课堂教学使用。
+
+- `./ppt`:  10个章节
+- `./ppt_16`:  16个课时
 
 ## 运行
 
